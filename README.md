@@ -2,7 +2,7 @@
 
 🌱 I'm currently a Software Engineering student. 
 
-💻 Checkout my GitHub repositories  
+💻 Check out my GitHub repositories  
 
 
 :mailbox: Reach me out!
